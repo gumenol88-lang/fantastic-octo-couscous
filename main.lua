@@ -12,7 +12,7 @@ local CoreGui = game:GetService("CoreGui")
 if getgenv().ZXTY_LOADED then return end
 getgenv().ZXTY_LOADED = true
 
-local CORRECT_KEY = "ZXTYVIP"
+local CORRECT_KEY = "ZXTYVIP81"
 
 -- UI
 local ScreenGui = Instance.new("ScreenGui", CoreGui)
